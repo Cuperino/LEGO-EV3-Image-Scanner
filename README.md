@@ -1,5 +1,5 @@
 # LEGO-EV3-Image-Scanner
-Image scanner built using LEGO Mindstorms EV3 and an extra wheel. Includes source from EV3 Software and build instructions. Scans 8.5 inch wide paper but could be adapter to similar page sizes.
+Image scanner built using LEGO Mindstorms EV3 and an extra wheel. Includes source from Mindstorms EV3 Software and build instructions. Scans 8.5 inch wide paper but could be adapter to similar page sizes.
 
 ## Inputs
 * Brick buttons – To control the configuration menus
@@ -55,6 +55,16 @@ The program consists of four stages: UI, Scan, Print Image, Save Image. The UI i
 * The software can be improved. I release it as it was when I stopped working on it.
 * I have no plans to continue developing this project until LEGO releases a version of LEGO MINDSTORMS EV3 for Linux Operating Systems.
 
+## Licensing and Copyright
+* Source files are shared under the GNU General Public License 2.0
+* Instruction pictures and additional contents are shared under the Creative Commons License Attribution 4.0 International
+* Copyright is shared between the University of Puerto Rico at Arecibo and myself.
+
 ## Disclaimers
 * This scanner is loosely based on the printer from “[The Unofficial LEGO MINDSTORMS NXT 2.0 Inventor’s Guide](http://robotsquare.com/books/inventors-guide/)”.
 * LEGO, MINDSTORMS, MINDSTORMS EV3, MINDSTORMS NXT are trademarks and/or copyrights of the LEGO Group. Use of them does not imply any affiliation with or endorsement by them.
+
+![alt text width=50](https://github.com/javiercordero/LEGO-EV3-Image-Scanner/raw/master/Instructions/5.%20Final%20result/A1.jpg "Scanner, test and source blocks")
+![alt text](https://github.com/javiercordero/LEGO-EV3-Image-Scanner/raw/master/Instructions/5.%20Final%20result/A6.jpg "Scan printed on screen")
+![alt text](https://raw.githubusercontent.com/javiercordero/LEGO-EV3-Image-Scanner/master/Instructions/4.%20Cables/D4.jpg "Scanner close up")
+![alt text](https://github.com/javiercordero/LEGO-EV3-Image-Scanner/raw/master/Instructions/5.%20Final%20result/A9.jpg "Scanning monorail")
