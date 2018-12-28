@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EditorDefinitions>
+  <PolyGroups>
+    <PolyGroup BlockFamily="My" IconBaseName="PolyGroup_075_Round">
+      <Block>
+        <Mode>MyBlock</Mode>
+        <Description />
+        <Reference Type="VILib" />
+        <PaletteInfo Weight="0.5" />
+        <ParamInfo Name="Convert" DisplayName="Convert" Direction="Input" Identification="Identification_000_A.png" DataType="Single" DefaultValue="0" />
+        <ParamInfo Name="CM to Inch" DisplayName="CM to Inch" Direction="Input" Identification="Identification_000_A.png" DataType="Boolean" DefaultValue="False" />
+        <ParamInfo Name="Converted" DisplayName="Converted" Direction="Output" Identification="Identification_000_A.png" DataType="Single" />
+      </Block>
+    </PolyGroup>
+  </PolyGroups>
+</EditorDefinitions>

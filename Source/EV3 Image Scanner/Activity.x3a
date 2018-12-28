@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Version="1.0.2.10" xmlns="http://www.ni.com/SourceModel.xsd">
+  <Namespace Name="Project">
+    <GuidedHelp xmlns="http://www.ni.com/GuidedHelp.xsd">
+      <Slides>
+        <Slide GuidedHelpSize="SmallVertical" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="MzsamCCcYhOpgwycFAeALbdt9PiJfawWU9RA7epr0zjnd3EscZk0AOl0IhEYMu3yH2mpxu0DeXQes8/bV3EjjQ==" TemplateID="Full">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="14" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b></b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Media" Version="0" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+      </Slides>
+      <MediaDictionary />
+    </GuidedHelp>
+  </Namespace>
+</SourceFile>
