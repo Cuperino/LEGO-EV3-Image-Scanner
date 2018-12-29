@@ -53,7 +53,7 @@ The program consists of four stages: UI, Scan, Print Image, Save Image. The UI i
 * Scanner precision could be improved with a second set, which could be used to create a two-rail x-axis instead of a monorail.
 * Due to forces exerted by the cables, the monorail is sometimes unstable, which leads to variable focus when capturing some pixels.
 * The software can be improved. I release it as it was when I stopped working on it.
-* I have no plans to continue developing this project until LEGO releases a version of LEGO MINDSTORMS EV3 for Linux Operating Systems.
+* I have no plans to continue developing this project until LEGO releases a version of LEGO MINDSTORMS EV3 for Linux Operating Systems or I find another compelling reason to buy a Mindstorms EV3 set of my own.
 
 ## Licensing and Copyright
 * Source files are shared under the GNU General Public License 2.0
@@ -61,6 +61,7 @@ The program consists of four stages: UI, Scan, Print Image, Save Image. The UI i
 * Copyright is shared between the University of Puerto Rico at Arecibo and myself.
 
 ## Disclaimers
+* I developed this for fun as part of an Introduction to Robotics class from the University of Puerto Rico at Arecibo.
 * This scanner is loosely based on the printer from “[The Unofficial LEGO MINDSTORMS NXT 2.0 Inventor’s Guide](http://robotsquare.com/books/inventors-guide/)”.
 * LEGO, MINDSTORMS, MINDSTORMS EV3, MINDSTORMS NXT are trademarks and/or copyrights of the LEGO Group. Use of them does not imply any affiliation with or endorsement by them.
 
