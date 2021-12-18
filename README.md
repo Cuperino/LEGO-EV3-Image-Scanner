@@ -1,5 +1,5 @@
 # LEGO-EV3-Image-Scanner
-Image scanner built using LEGO Mindstorms EV3 and an extra wheel. Includes source from Mindstorms EV3 Software and build instructions. Scans 8.5 inch wide paper but could be adapter to similar page sizes.
+Image scanner built using the LEGO Mindstorms EV3 Education set and an extra wheel. Includes source from Mindstorms EV3 Software and build instructions. Scans 8.5 inch wide paper but could be adapter to similar page sizes.
 
 ## Inputs
 * Brick buttons – To control the configuration menus
